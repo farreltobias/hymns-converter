@@ -1,0 +1,8 @@
+node_modules
+.idea
+
+hymn_txt/*
+!hymn_txt/.gitkeep
+
+hymn_xml/*
+!hymn_xml/.gitkeep

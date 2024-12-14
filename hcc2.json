@@ -1,0 +1,108 @@
+{
+  "_declaration": { "_attributes": { "version": "1.0", "encoding": "UTF-8" } },
+  "song": {
+    "_attributes": {
+      "xmlns": "http://openlyrics.info/namespace/2009/song",
+      "version": "0.8",
+      "createdIn": "OpenLP 2.0.1",
+      "modifiedIn": "OpenLP 2.0.1",
+      "modifiedDate": "2013-11-14T22:03:44"
+    },
+    "properties": {
+      "titles": {
+        "title": [
+          { "_text": "HCC 153 Já Refulge a Glória Eterna de Jesus" },
+          { "_text": "Battle Hymn" }
+        ]
+      },
+      "verseOrder": { "_text": "v1 c1 v2 c1 v3 c1 v4 c2" },
+      "authors": {
+        "author": [{ "_text": "Melodia americana" }, { "_text": "Julia Howe" }]
+      },
+      "songbooks": {
+        "songbook": {
+          "_attributes": {
+            "name": "Hinário Para o Culto Cristão",
+            "entry": "153"
+          }
+        }
+      }
+    },
+    "lyrics": {
+      "verse": [
+        {
+          "_attributes": { "name": "v1" },
+          "lines": {
+            "_text": [
+              "Já refulge a glória eterna de Jesus, o Rei dos reis;",
+              "breve os reinos deste mundo seguirão as suas leis.",
+              "Os sinais da sua vinda mais se mostram cada vez.",
+              "Vencendo vem Jesus."
+            ],
+            "br": [{}, {}, {}]
+          }
+        },
+        {
+          "_attributes": { "name": "c1" },
+          "lines": {
+            "_text": [
+              "Glória, glória! Aleluia!",
+              "Glória, glória! Aleluia!",
+              "Glória, glória! Aleluia!",
+              "Vencendo vem Jesus."
+            ],
+            "br": [{}, {}, {}]
+          }
+        },
+        {
+          "_attributes": { "name": "v2" },
+          "lines": {
+            "_text": [
+              "O clarim que chama os salvos à batalha já soou;",
+              "Cristo, à frente do seu povo, multidões já conquistou.",
+              "O inimigo, em retirada, seu furor já demonstrou.",
+              "Vencendo vem Jesus."
+            ],
+            "br": [{}, {}, {}]
+          }
+        },
+        {
+          "_attributes": { "name": "v3" },
+          "lines": {
+            "_text": [
+              "Eis que em glória refulgente sobre as nuvens descerá,",
+              "e as nações e os reis da terra com poder governará.",
+              "Sim, em paz e santidade, toda a terra regerá.",
+              "Vencendo vem Jesus."
+            ],
+            "br": [{}, {}, {}]
+          }
+        },
+        {
+          "_attributes": { "name": "v4" },
+          "lines": {
+            "_text": [
+              "E por fim, entronizado, as nações irá julgar.",
+              "Todos, grandes e pequenos, o Juiz hão de encarar.",
+              "E os remidos, triunfantes, lá no céu irão cantar:",
+              "Venceu o Rei Jesus."
+            ],
+            "br": [{}, {}, {}]
+          }
+        },
+        {
+          "_attributes": { "name": "c2" },
+          "lines": {
+            "_text": [
+              "Glória, glória! Aleluia!",
+              "Glória, glória! Aleluia!",
+              "Glória, glória! Aleluia!",
+              "Venceu o Rei Jesus."
+            ],
+            "br": [{}, {}, {}]
+          }
+        }
+      ]
+    }
+  }
+}

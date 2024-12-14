@@ -1,0 +1,237 @@
+{
+  "id": 1708297824009,
+  "title": "Vencendo Vem Jesus",
+  "artist": "HCC 153",
+  "author": "Julia Ward Howe, William Steffe",
+  "note": "",
+  "copyright": "",
+  "key": "",
+  "bpm": 0.0,
+  "time_sig": "",
+  "midi": null,
+  "order": "1,2,3,4,5,6,7,8,9,10,7,11,12,13,14,15,16,7,8,9,10,7,17,18,19,20,21,22,7,8,9,10,7,23,24,25,26,27,28,29,8,9,10,29",
+  "lyrics": {
+    "full_text": "Já refulge \na glória eterna\n\nDe Jesus \no Rei dos reis\n\nBreve os reinos \ndeste mundo\n\nSeguirão as \nSuas leis!\n\nOs sinais \nda Sua vinda\n\nMais se mostram \ncada vez\n\nVencendo \nvem Jesus!\n\nGlória, glória! \nAleluia!\n\nGlória, glória! \nAleluia!\n\nGlória, glória! \nAleluia!\n\nO clarim que \nchama os crentes\n\nA batalha \njá soou\n\nCristo, à frente \ndo Seu povo\n\nMultidões \njá conquistou\n\nO inimigo \nem retirada\n\nSeu furor \npatenteou\n\nEis que em glória \nrefulgente\n\nSobre as nuvens \ndescerá\n\nE as nações e \nos reis da Terra\n\nCom poder \ngovernará\n\nSim, em paz \ne santidade\n\nToda a Terra \nregerá\n\nE por fim\nentronizado\n\nAs nações \nhá de julgar\n\nTodos, grande \ne pequenos\n\nO Juiz hão \nde encarar\n\nE os remidos\ntriunfantes\n\nEm fulgor hão \nde cantar:\n\nVenceu \no Rei Jesus!",
+    "full_text_with_comment": null,
+    "paragraphs": [
+      {
+        "number": 1,
+        "description": "Estrofe 1",
+        "text": "Já refulge \na glória eterna",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 2,
+        "description": "",
+        "text": "De Jesus \no Rei dos reis",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 3,
+        "description": "",
+        "text": "Breve os reinos \ndeste mundo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 4,
+        "description": "",
+        "text": "Seguirão as \nSuas leis!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 5,
+        "description": "",
+        "text": "Os sinais \nda Sua vinda",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 6,
+        "description": "",
+        "text": "Mais se mostram \ncada vez",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 7,
+        "description": "Pré-refrão 1",
+        "text": "Vencendo \nvem Jesus!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 8,
+        "description": "Refrão",
+        "text": "Glória, glória! \nAleluia!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 9,
+        "description": "",
+        "text": "Glória, glória! \nAleluia!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 10,
+        "description": "",
+        "text": "Glória, glória! \nAleluia!",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 11,
+        "description": "Estrofe 2",
+        "text": "O clarim que \nchama os crentes",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 12,
+        "description": "",
+        "text": "A batalha \njá soou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 13,
+        "description": "",
+        "text": "Cristo, à frente \ndo Seu povo",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 14,
+        "description": "",
+        "text": "Multidões \njá conquistou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 15,
+        "description": "",
+        "text": "O inimigo \nem retirada",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 16,
+        "description": "",
+        "text": "Seu furor \npatenteou",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 17,
+        "description": "Estrofe 3",
+        "text": "Eis que em glória \nrefulgente",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 18,
+        "description": "",
+        "text": "Sobre as nuvens \ndescerá",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 19,
+        "description": "",
+        "text": "E as nações e \nos reis da Terra",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 20,
+        "description": "",
+        "text": "Com poder \ngovernará",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 21,
+        "description": "",
+        "text": "Sim, em paz \ne santidade",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 22,
+        "description": "",
+        "text": "Toda a Terra \nregerá",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 23,
+        "description": "Estrofe 4",
+        "text": "E por fim\nentronizado",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 24,
+        "description": "",
+        "text": "As nações \nhá de julgar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 25,
+        "description": "",
+        "text": "Todos, grande \ne pequenos",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 26,
+        "description": "",
+        "text": "O Juiz hão \nde encarar",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 27,
+        "description": "",
+        "text": "E os remidos\ntriunfantes",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 28,
+        "description": "",
+        "text": "Em fulgor hão \nde cantar:",
+        "text_with_comment": null,
+        "translations": null
+      },
+      {
+        "number": 29,
+        "description": "Pré-refrão 2",
+        "text": "Venceu \no Rei Jesus!",
+        "text_with_comment": null,
+        "translations": null
+      }
+    ]
+  },
+  "streaming": {
+    "audio": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    },
+    "backing_track": {
+      "spotify": "",
+      "youtube": "",
+      "deezer": ""
+    }
+  },
+  "extras": {
+    "extra": ""
+  }
+}
